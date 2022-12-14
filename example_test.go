@@ -2,9 +2,8 @@ package isatty_test
 
 import (
 	"fmt"
+	"github.com/gozelle/go-isatty"
 	"os"
-
-	"github.com/mattn/go-isatty"
 )
 
 func Example() {
