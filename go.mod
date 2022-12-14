@@ -1,4 +1,4 @@
-module github.com/gozelle/go-isatty
+module github.com/gozelle/isatty
 
 go 1.15
 

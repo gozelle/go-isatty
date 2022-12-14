@@ -2,7 +2,7 @@ package isatty_test
 
 import (
 	"fmt"
-	"github.com/gozelle/go-isatty"
+	"github.com/gozelle/isatty"
 	"os"
 )
 
